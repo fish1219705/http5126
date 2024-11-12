@@ -16,8 +16,7 @@ SELECT first_name, last_name, role, phone FROM employees;
 -- A
 SELECT item AS Product, category AS Animal FROM stock_items;
 -- B
-SELECT last_name AS 'Pet
-Store Staff', id AS 'Emp. ID', sin AS SIN FROM employees;
+SELECT last_name AS 'Pet Store Staff', id AS 'Emp. ID', sin AS SIN FROM employees;
 
 --  4
 -- A
